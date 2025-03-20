@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<!--
-**aioshi21chowdhury/aioshi21chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://twitter.com/yourtwitter" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm [Aioshi Chowdhury](https://yourwebsite.com/), a data scientist and coding enthusiast with expertise in Python, Java, and C. I am passionate about solving real-world problems through data and algorithms. When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects.
+
+<br>
+
+<img align="right" alt="image" src="https://i.redd.it/dh7s7ifritsa1.jpg" />
+
+
+- 🔍 Areas of Interest: Data Science, Machine Learning, Deep Learning, and Competitive Programming.
+- 🔧 Languages & Skills: Python, Java, C, SQL, DBMS.
+- 📊 Projects:
+  - Data Analysis of Diwali Sales 📈
+  - Sarcasm Detection (Contributed) 🤖
+  - Data Cleaning for Sentiment Analysis 🧹
+  - Emotion Recognition 😊😢
+  - Browsing History Classifier 🔍
+- 🚀 Competitive Programming:
+  - Practicing DSA on **LeetCode**, **GeeksforGeeks**, and **HackerRank**.
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithub" alt="yourgithub" /> </p>
+
+**Languages and Tools:**
+<br>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+---
+### 📢 Find me elsewhere
+<p align="left">
+  <a href="https://leetcode.com/yourleetcode/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/yourhackerrank">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<hr>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=gotham" alt="yourgithub" />
+
+</details>
+
+</br>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
