@@ -6,13 +6,9 @@
 <p>Welcome to my digital playground! 🎢 Where bugs fear me, and semicolons bow in respect. 👀</p>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/aioshi-chowdhury-530057244/)" target="_blank">
+  <a href="https://www.linkedin.com/in/aioshi-chowdhury-530057244/" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/aioshichowdhury?igsh=MTFtcmxkMWtnaXBxNg==&utm_source=ig_contact_invite" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/instagram.png?raw=true">
-  </a>
 </p>
 
 <br>
