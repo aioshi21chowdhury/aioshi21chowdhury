@@ -1,13 +1,23 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey there, fellow code wrangler! 🧑‍💻
+</h1>
+
+<p>Welcome to my digital playground! 🎢 Where bugs fear me, and semicolons bow in respect. 👀</p>
 
 <p align="left">
-<a href="https://twitter.com/yourtwitter" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/aioshi-chowdhury-530057244/)" target="_blank">
+    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/aioshichowdhury?igsh=MTFtcmxkMWtnaXBxNg==&utm_source=ig_contact_invite" target="_blank">
+    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/instagram.png?raw=true">
+  </a>
 </p>
 
 <br>
 
-Hi, I'm [Aioshi Chowdhury](https://yourwebsite.com/), a data scientist and coding enthusiast with expertise in Python, Java, and C. I am passionate about solving real-world problems through data and algorithms. When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects.
+Hi, I'm [Aioshi Chowdhury](https://yourwebsite.com/](https://github.com/aioshi21chowdhury)), a data scientist and coding enthusiast with expertise in Python, Java, and C. I am passionate about solving real-world problems through data and algorithms. When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects.
 
 <br>
 
@@ -41,11 +51,14 @@ Hi, I'm [Aioshi Chowdhury](https://yourwebsite.com/), a data scientist and codin
 ---
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://leetcode.com/yourleetcode/">
+  <a href="[https://leetcode.com/yourleetcode/](https://leetcode.com/u/aioshihowdhury/)">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/yourhackerrank">
+  <a href="[https://www.hackerrank.com/yourhackerrank](https://www.hackerrank.com/dashboard)">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
